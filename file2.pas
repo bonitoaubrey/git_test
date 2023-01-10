@@ -1,13 +1,13 @@
 program hello2;
 
-begin
+start
     writeln('Hello, World!');
     writeln('Good bye, World!');
 end.
 
 program hello2;
 
-begin
+
     writeln('Hello, World!');
     writeln('Good bye, World!');
 end.

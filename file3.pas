@@ -1,6 +1,6 @@
 program hello2;
 
 begin
-    writeln('Hello, World!');
-    writeln('Good bye, World!');
+    write('Hello, World!');
+    write('Good bye, World!');
 end.
