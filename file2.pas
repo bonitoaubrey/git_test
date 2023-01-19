@@ -1,7 +1,4 @@
 program hello2;
-
-start
-    writeln('Hello, World!');
     writeln('Good bye, World!');
 end.
 
